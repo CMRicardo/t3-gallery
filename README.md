@@ -7,10 +7,10 @@
 - [x] Tidy up build process
 - [x] Actually set up a database (vercel postgres)
 - [x] Attach database to UI
-- [ ] Attach authentication (using clerk)
+- [x] Attach authentication (using clerk)
 - [ ] Add image upload
 - [ ] Error management (using Sentry)
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (using Server Actions)
 - [ ] Analytics (posthog)
-- [ ] Ratelimiting (upstash)
+- [ ] Rate-limiting (upstash)
